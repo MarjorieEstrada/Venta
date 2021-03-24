@@ -1,0 +1,44 @@
+#imgen{
+    background-color: #1d2863;
+    margin: 0;
+    padding: 0;
+    }
+    
+    img{
+        display: block;
+        margin: 0 auto; 
+    }
+        
+    .bg{
+        background-color: #ffce0a;
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        text-align: center; 
+        word-spacing: 100px;
+        font-size: 35px;
+    }
+    html{
+    width: 100%;
+    height: 100vh;
+    background-image:url(./Fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    }
+    p{
+        font-family: "Arial black", Gadget, sans-serif;
+        font-size: 30px;
+        letter-spacing: -1px;
+        word-spacing: 3.6px;
+        color: whitesmoke;
+        text-align: center;
+        text-decoration: overline;
+    }
+    a{
+        font-size: 17px;
+        font-family: "Arial Black", gadget, sans-serif;
+        text-decoration: none;
+        text-decoration-color: cyan;
+        color: cyan;
+    }
